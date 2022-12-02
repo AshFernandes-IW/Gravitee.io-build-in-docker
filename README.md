@@ -17,3 +17,4 @@
 - In the Plan stage, feel free to give any name and description of your liking, but ensure the Security Type is marked as ``Keyless (public)``
 - Now we will start and publish our API in the following section
 - Our API is now live and we can confirm this by opening a new browser tab `localhost:8082/turtle` in the address field
+- This should be your final outcome: ![outcome](https://github.com/AshFernandes-IW/Gravitee.io-build-in-docker/blob/main/turtle.png)
